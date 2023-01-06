@@ -10,7 +10,7 @@ Customer reviews were scraped and analyzed. Tasks involved were:
 * Processing the reviews with `pandas`.
 * Sentiment analysis using a BERT model with the `transformers` package.
 * Topic modelling:
-** `Gensim` and `spaCy` for preprocessing the reviews.
-** Latent Dirichlet Allocation from `sci-kit learn` for topic modelling.
+    * `Gensim` and `spaCy` for preprocessing the reviews.
+    * Latent Dirichlet Allocation from `sci-kit learn` for topic modelling.
 * Creating visualizations:
-** Word clouds created with `wordclouds` package.
+    * Word clouds created with `wordclouds` package.
